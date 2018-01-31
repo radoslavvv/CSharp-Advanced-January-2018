@@ -14,8 +14,11 @@
 <h1><strong>Exercises:</strong></h1>
 <ol type="1">
 	<li><a href="https://github.com/radoslavvv/CSharp-Advanced-January-2018/tree/master/01.StacksAndQueues/Exercises">Stacks and Queues</a></li>
+	<li><a href="https://github.com/radoslavvv/CSharp-Advanced-January-2018/tree/master/02.MultidimensionalArrays/Exercises">Stacks and Queues</a></li>
+	<li><a href="https://github.com/radoslavvv/CSharp-Advanced-January-2018/tree/master/03.Streams">Stacks and Queues</a></li>
 </ol>
 
+<h1><strong><a href="https://github.com/radoslavvv/CSharp-Advanced-January-2018/tree/master/BashSoft">Bashoft</a></strong></h1>
 <h1><strong>Exam:</strong></h1>
 
 <ul>
