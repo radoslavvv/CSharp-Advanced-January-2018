@@ -1,4 +1,4 @@
-* <p align="center"> <h1>C# Advanced - January 2018</h1><p>
+* <p align="center"> <h1 align="center">C# Advanced - January 2018</h1><p>
 <a href="https://softuni.bg/trainings/1841/csharp-advanced-january-2018">  ![SoftUni logo][logo] <a/>
   		  
 [logo]: http://innovationstarterbox.bg/wp-content/uploads/2016/05/Softuni_logo_trasparent.png "Logo Title Text 2"
