@@ -1,10 +1,6 @@
-* <p align="center"> <h1 align="center">C# Advanced - January 2018</h1><p>
-<a href="https://softuni.bg/trainings/1841/csharp-advanced-january-2018">  ![SoftUni logo][logo] <a/>
+<h1 align="center">C# Advanced - January 2018</h1>
+<a style="text-align:center" href="https://softuni.bg/trainings/1841/csharp-advanced-january-2018"><img src ="http://innovationstarterbox.bg/wp-content/uploads/2016/05/Softuni_logo_trasparent.png"><a/>
   		  
-[logo]: http://innovationstarterbox.bg/wp-content/uploads/2016/05/Softuni_logo_trasparent.png "Logo Title Text 2"
- 		 
- ---
-
 <h1><strong>Labs:</strong></h1>
 <ol type="1">
 	<li><a href="https://github.com/radoslavvv/CSharp-Advanced-January-2018/tree/master/01.StacksAndQueues/Lab">Stacks and Queues</a></li>
