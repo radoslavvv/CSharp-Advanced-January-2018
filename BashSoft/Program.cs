@@ -6,7 +6,7 @@ namespace BashSoft
     {
         static void Main(string[] args)
         {
-            Tester.CompareContent(@"C:\Users\Radi\Desktop\New folder\1.txt", @"C:\Users\Radi\Desktop\New folder\2.txt");
+            InputReader.StartReadingCommands();
         }
     }
 }
