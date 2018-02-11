@@ -24,5 +24,5 @@
 
 <h1><strong>Exam:</strong></h1>
 <ul>
-	li><a href="https://github.com/radoslavvv/CSharp-Advanced-January-2018/tree/master/CSharp-Advanced-11-February-2018">Exam</a></li>
+	<li><a href="https://github.com/radoslavvv/CSharp-Advanced-January-2018/tree/master/CSharp-Advanced-11-February-2018">Exam</a></li>
 </ul>
